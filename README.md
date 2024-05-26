@@ -2,7 +2,7 @@
 Enzo Porfirio</a></h1>
 <h3 align="center">Estudante de Ciência da Computação</h3>
 
-[![Portfolio](https://img.shields.io/badge/Visite%20meu%20Portfólio-8A2BE2)](https://enzzopp.github.io)
+[![Portfolio](https://img.shields.io/badge/Clique%20e%20visite%20meu%20Portfólio-8A2BE2)](https://enzzopp.github.io)
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
