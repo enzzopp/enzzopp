@@ -14,7 +14,7 @@ Enzo Porfirio</a></h1>
 
 - 📗 Atualmente aprendendo compiladores em C.
 
-- 📝 Sempre tualizando meus repositórios [My Repos](https://github.com/enzzopp?tab=repositories)
+- 📝 Sempre atualizando meus repositórios [My Repos](https://github.com/enzzopp?tab=repositories)
 
 - 📫 Contate-me **enzzopp@gmail.com**
 
